@@ -1,0 +1,6 @@
+tkinter
+httpx
+shodan
+pynput
+pyperclip
+python-dotenv
